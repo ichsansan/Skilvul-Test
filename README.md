@@ -1,5 +1,6 @@
 # Skilvul-Test
 This is a repository for Skilvul's challenge.
+Just run the ```main.py``` file on the console, and it will give these outputs.
 
 Example output:
 ```
